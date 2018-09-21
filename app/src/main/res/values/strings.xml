@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPA_LUSSAR_Calculator</string>
+    <string name="label_gpa1">Your GPA IS: </string>
+    <string name="btn_cal_gpa">Compute GPA</string>
+    <string name="start_display">Enter GPA</string>
+
+
+    <string name="edit1_value">Enter GPA</string>
+    <string name="edit2_value">Enter GPA</string>
+    <string name="edit3_value">Enter GPA</string>
+    <string name="edit4_value">Enter GPA</string>
+    <string name="edit5_value">Enter GPA</string>
+    <string name="enter_gpa">Enter GPA</string>
+
+</resources>
